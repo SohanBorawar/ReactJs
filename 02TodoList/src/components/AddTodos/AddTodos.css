@@ -1,0 +1,33 @@
+.addInput{
+    position: relative;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+}
+.addInput input{
+    width: 400px;
+    padding: 12px 15px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.addInput button{
+    padding: 13px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    outline: none;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: all 0.3s ease;
+}   
